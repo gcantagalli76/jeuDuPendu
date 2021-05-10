@@ -1,0 +1,44 @@
+body{
+    background-color: aquamarine;
+}
+
+.namegame{
+    color: red;
+}
+.resultWindow {
+    height: 15em;
+    margin: 1px;
+}
+
+.hightLine {
+    height: 6em;
+    margin: 1px;
+}
+.namegame{
+    font-family: 'Reggae One', cursive;
+}
+
+.sizeButton {
+    border: white 2px solid;
+    margin: 5px;
+}
+
+.regleLigne{
+    margin-top: 3em;
+}
+
+.jeu{
+    text-align: center;
+}
+#start{
+    width: 40%;
+    margin-top: 10%;
+    margin: 0 auto;
+}
+#resultWord{
+    margin-top: 5%;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+}
