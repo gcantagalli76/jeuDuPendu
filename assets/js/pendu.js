@@ -51,8 +51,6 @@ myLetters.forEach(element => {
       case 8:
         myImage.src = "./assets/img/Anne.png";
         break;
-      default:
-        window.alert("Game Over !");
     }
   })
 });
